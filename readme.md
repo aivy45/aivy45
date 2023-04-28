@@ -79,7 +79,7 @@
 
 <div align="center">
 
-<a href="https://github.com/M-A-N-I-K/">
+<a href="https://github.com/aivy45">
   <img src="https://github-readme-stats.vercel.app/api?username=aivy45&include_all_commits=true&coun_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aivy45&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="manik-dingra"/>
 
