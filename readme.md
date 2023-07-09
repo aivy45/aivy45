@@ -17,7 +17,7 @@
 - A passionate Self-taught Full Stack developer
 - You can find me playing badminton, reading novels and working out in gym in my spare time.
 - Currently Kaizen my Full stack Web Development skills
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/17iCMEWOk6lKzr3R7Za3cTRr0gnFfF7XT/view?usp=share_link)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/drive/u/0/my-drive?ths=true)
 
 <br><br>
 
